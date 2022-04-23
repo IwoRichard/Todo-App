@@ -1,6 +1,0 @@
-*.html linguist-detectable=false
-*.csharp linguist-detectable=false
-*.c linguist-detectable=false
-*.CMake linguist-detectable=false
-*.Dart linguist-detectable=true
-*.swift linguist-detectable=false
