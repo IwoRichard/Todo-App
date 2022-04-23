@@ -1,3 +1,2 @@
 *.dart linguist-detectable=true
 *.csharp linguist-detectable=false
-*.html linguist-detectable=false
